@@ -1,0 +1,10 @@
+com\cisco\iox\simulator\factoryio\SortingStationController.class
+com\cisco\iox\simulator\factoryio\State.class
+com\cisco\iox\simulator\factoryio\FunctionTrigger.class
+com\cisco\iox\simulator\factoryio\ControllerInterface.class
+com\cisco\iox\simulator\factoryio\FactoryIOSlavehandler.class
+com\cisco\iox\simulator\factoryio\SortingStationLogic.class
+com\cisco\iox\simulator\factoryio\ProductionLineController.class
+com\cisco\iox\simulator\factoryio\SortingStationLogic$Colors.class
+com\cisco\iox\simulator\factoryio\FactoryIOModbusServer.class
+com\cisco\iox\simulator\factoryio\ProductionLineLogic.class
